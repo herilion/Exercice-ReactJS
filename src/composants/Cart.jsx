@@ -16,9 +16,7 @@ function Cart() {
                 <p>Proverbe</p>
                 <div className='group1'>
                     <p>70%</p>
-                    <div className='bigDiv'>
-                        <div className='smBig'></div>
-                    </div>
+                    <progress max="100" value="70"></progress>
                 </div>
             </div>
             <div className='cart1'>
