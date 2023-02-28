@@ -4,6 +4,7 @@ import './Cart.css'
 function Cart() {
     return (
         <div>
+            <h3>Liste des livres</h3>
             <div className='cart1'>
                 <p>Proverbe</p>
                 <div className='group1'>
