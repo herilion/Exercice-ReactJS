@@ -15,6 +15,15 @@ function Cart() {
                 </div>
             </div>
             <div className='cart1'>
+                <p>Proverbe</p>
+                <div className='group1'>
+                    <p>70%</p>
+                    <div className='bigDiv'>
+                        <div className='smBig'></div>
+                    </div>
+                </div>
+            </div>
+            <div className='cart1'>
                 <p>tite</p>
                 <div className='group1'>
                     <p>70%</p>
