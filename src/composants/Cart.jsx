@@ -23,7 +23,7 @@ function Cart() {
                 <p>tite</p>
                 <div className='group1'>
                     <p>70%</p>
-                    <progress max="100" value="70"></progress>
+                    <progress max="100" value="70"> </progress>
                 </div>
             </div>
             <div className='cart1'>
