@@ -13,12 +13,6 @@
     align-items: center;
     gap: 5px;
 }
-.bigDiv{
-    width: 300px;
-    height: 5px;
-    border: solid 1px rgb(146, 116, 116);
-    border-radius: 5px;
-}
 .smBig{
     width: 70%;
     height: 100%;
