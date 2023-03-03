@@ -8,8 +8,8 @@ function Cart() {
             <div className='cart1'>
                 <p>Proverbe</p>
                 <div className='group1'>
-                    <p>70%</p>
-                    <progress max="100" value="70"></progress>
+                    <p>80%</p>
+                    <progress max="100" value="80"></progress>
                 </div>
             </div>
             <div className='cart1'>
